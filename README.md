@@ -3,5 +3,5 @@ Description: you will build an interactive Bash program that stores rental infor
 
 bike-shop.sh - interactive store to rent and return bikes;
 
-bikes.sql - databa dump;
+bikes.sql - database dump;
 
